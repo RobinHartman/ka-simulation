@@ -8,6 +8,7 @@ namespace KA_simulation
 {
     static class Program
     {
+        //yolo
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
