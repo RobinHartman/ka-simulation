@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace KA_simulation
 {
     static class Program
     {
-        //yolo
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
